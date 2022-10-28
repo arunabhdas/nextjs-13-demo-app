@@ -16,3 +16,8 @@ Installing dependencies:
 - react-dom
 - next
 ```
+
+* Dev 
+```
+npm run dev
+```
