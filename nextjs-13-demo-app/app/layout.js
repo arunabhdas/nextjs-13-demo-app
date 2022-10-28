@@ -1,5 +1,8 @@
 import './globals.css'
 
+import './globals.css';
+import MainNavigation from '../components/ui/MainNavigation';
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
@@ -10,7 +13,7 @@ export default function RootLayout({ children }) {
       </head>
       <body>
         <header>
-
+          <MainNavigation />
         </header>
         <main>{children}</main>
         </body>
