@@ -7,7 +7,7 @@ Next JS 13 Demo App
 ```
 npx create-next-app@latest --experimental-app
 
-Creating a new Next.js app in /Users/coder/repos/arunabhdas/githubrepos/nextjs-13-demo-app/nextjs-13-demo-app.
+Creating a new Next.js app in ./nextjs-13-demo-app/nextjs-13-demo-app.
 
 Using npm.
 
