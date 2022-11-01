@@ -23,5 +23,7 @@ npm run dev
 ```
 
 
-## References
+## Screenshots
+
+![Screenshot 1](https://raw.githubusercontent.com/arunabhdas/nextjs-13-demo-app/main/screenshots/screenshot_1.png)
 
