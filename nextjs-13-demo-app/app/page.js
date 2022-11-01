@@ -10,9 +10,9 @@ export default function Home() {
           <br/>
           <a href="engines/">Cafeteria</a> 
           <br/>
-          <a href="weapons/">Weapons Room</a>
+          <a href="weapons/">Tools</a>
           <br/>
-          <a href="engines/">Engines Room</a>
+          <a href="engines/">Engines</a>
         </h1>
 
       </main>
